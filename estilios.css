@@ -1,0 +1,19 @@
+*{
+background-color: rgb(24, 23, 23); 
+color: beige;
+text-align: center;
+}
+#imgPerfil{
+    border-radius: 250px;
+    border: solid 5px;
+    border-color: beige;
+}
+
+
+.titulos{
+    font-size: 20%;
+
+}
+ h2{font-size: 300%;
+
+ }
